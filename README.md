@@ -20,9 +20,9 @@ The program does nothing to non-alphabetical characters, since they do not conta
 Example Input: 3
 Example Output: 3
 
-The program adds "way" to single words beginning with a vowel.
+The program adds "hay" to single words beginning with a vowel.
 Example Input: i
-Example Output: iway
+Example Output: ihay
 
 The program moves the first consonant of a word to the end.
 Example Input : dog
